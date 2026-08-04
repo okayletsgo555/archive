@@ -1,20 +1,38 @@
-[
-  {
-    "category": ["heart", "blue", "wara"],
-    "title": "오사카 원정 01",
-    "content": "'보답 같은 건 바라지 않는다'는 말은 명백한 거짓말이었다. 쿄헤이는 지금, 세이가 '그래도 같이 먹어요'라고 말해주길 간절히 바라고 있었다.",
-    "url": "https://oyasumidarlin.tistory.com/25"
-  },
-  {
-    "category": "blue",
-    "title": "OMG",
-    "content": "No I can never let him go 너만 생각나 24\n난 행운아야 정말로 I know, I know\n널 알기 전까지는 나 의미 없었어 전부 다 내 맘이 끝이 없는 걸 I know, I know\nI'm going crazy right?",
-    "url": "https://내블로그주소.com/1"
-  },
-  {
-    "category": "wara",
-    "title": "네가 죽어서 유령이 된다면",
-    "content": "집에 설탕을 놓아두고\n널 불러올 거야\n기척이 유난히 강해서 왠지 신경 쓰일 것 같아",
-    "url": "https://내블로그주소.com/1"
+{
+  "posts": [
+    {
+      "title": "오사카 원정 01",
+      "content": "'보답 같은 건 바라지 않는다'는 말은 명백한 거짓말이었다. 쿄헤이는 지금, 세이가 '그래도 같이 먹어요'라고 말해주길 간절히 바라고 있었다.",
+      "category": ["all", "blue", "wara"]
+      "url": "https://oyasumidarlin.tistory.com/25"
+    }
+    {
+      "title": "네가 죽어서 유령이 된다면",
+      "content": "집에 설탕을 놓아두고 널 부를 거야\n네가 죽어서 유령이 된다면\n기척이 유난히 강해서 왠지 신경 쓰일 것 같아",
+      "category": ["all", "blue", "wara"]
+      "url": "https://oyasumidarlin.tistory.com/25"  
+    }
+  ],
+  "diary": {
+    "2014-04-01": {
+      "emoji": "☀️",
+      "title": "여름 휴가 시작!",
+      "content": "드디어 기다리던 휴가 시작. 바닷가 근처 카페에서 좋아하는 노래 들으면서 다이어리 정리 중!",
+      "bgm": {
+        "title": "Ocean Wave",
+        "artist": "Retro Beach",
+        "lyrics": "푸른 바다 저 멀리 보이는 섬 하나\n오늘 하루는 모든 걸 잊고 쉬어가자\n파도 소리에 귓가를 맡긴 채"
+      }
+    },
+    "2014-04-03": {
+      "emoji": "🎮",
+      "title": "다이어리 완성!",
+      "content": "레트로 스타일 달력 다이어리를 완성했다. 직각 디자인에 파스텔 톤이라 질리지 않고 너무 예쁨!",
+      "bgm": {
+        "title": "Pixel City",
+        "artist": "8-bit Wave",
+        "lyrics": "반짝이는 픽셀 불빛 아래\n밤새 이어지는 우리들의 이야기\n버튼을 누르면 시작되는 게임"
+      }
+    }
   }
-]
+}
