@@ -3,7 +3,7 @@
     {
       "title": "오사카 원정 01",
       "content": "'보답 같은 건 바라지 않는다'는 말은 명백한 거짓말이었다. 쿄헤이는 지금, 세이가 '그래도 같이 먹어요'라고 말해주길 간절히 바라고 있었다.",
-      "category": "blue",
+      "category": ["all", "blue", "wara"],
       "url": "https://oyasumidarlin.tistory.com/25"
     },
     {
