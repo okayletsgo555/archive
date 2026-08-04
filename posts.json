@@ -1,9 +1,9 @@
 [
   {
-    "category": "heart",
-    "title": "테스트용",
+    "category": ["heart", "blue", "wara"],
+    "title": "오사카 원정 01",
     "content": "내가 힘들 때 울 것 같을 때 기운도 이젠 나지 않을 때 It's You 날 걱정하네 It's You 날 웃게 하네 말 안 해도 돼",
-    "url": "https://내블로그주소.com/1"
+    "url": "https://oyasumidarlin.tistory.com/25"
   },
   {
     "category": "blue",
