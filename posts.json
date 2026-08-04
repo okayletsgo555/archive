@@ -9,30 +9,20 @@
     {
       "title": "네가 죽어서 유령이 된다면",
       "content": "집에 설탕을 놓아두고 널 부를 거야\n네가 죽어서 유령이 된다면\n기척이 유난히 강해서 왠지 신경 쓰일 것 같아",
-      "category": "wara",
+      "category": ["all", "blue", "wara"],
       "url": "https://oyasumidarlin.tistory.com/25"
     }
   ],
   "diary": {
-    "2014年 04月 01日": {
-      "emoji": "<img class="text-emoji" src="https://i.imgur.com/NkCvA3V.gif" />",
-      "title": "여름 휴가 시작!",
-      "content": "드디어 기다리던 휴가 시작. 바닷가 근처 카페에서 좋아하는 노래 들으면서 다이어리 정리 중!",
-      "bgm": {
-        "title": "Ocean Wave",
-        "artist": "Retro Beach",
-        "lyrics": "푸른 바다 저 멀리 보이는 섬 하나\n오늘 하루는 모든 걸 잊고 쉬어가자\n파도 소리에 귓가를 맡긴 채"
-      }
+    "2014年 04月 01日 ": {
+      "emoji": "<img class=\"text-emoji\" src=\"https://i.imgur.com/NkCvA3V.gif\" />",
+      "title": "첫 다이어리",
+      "content": "오늘 날씨가 참 좋았다. <img class=\"text-emoji\" src=\"https://i.imgur.com/NkCvA3V.gif\" /> 다이어리 정리 완료!"
     },
-    "2014年 04月 03日": {
-      "emoji": "🎮",
-      "title": "다이어리 완성!",
-      "content": "레트로 스타일 달력 다이어리를 완성했다. 직각 디자인에 파스텔 톤이라 질리지 않고 너무 예쁨!",
-      "bgm": {
-        "title": "Pixel City",
-        "artist": "8-bit Wave",
-        "lyrics": "반짝이는 픽셀 불빛 아래\n밤새 이어지는 우리들의 이야기\n버튼을 누르면 시작되는 게임"
-      }
+    "2014年 04月 03日 ": {
+      "emoji": "🌸",
+      "title": "벚꽃 구경",
+      "content": "벚꽃이 많이 피었다. 산책하기 딱 좋은 날씨!"
     }
   }
 }
